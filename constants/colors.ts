@@ -1,0 +1,17 @@
+export const Colors = {
+  primary: '#1B2B6B',
+  safe: '#10B981',
+  danger: '#F87171',
+  warning: '#F59E0B',
+  accentStart: '#3B82F6',
+  accentEnd: '#1B2B6B',
+  backgroundLight: '#F9F8F6',
+  backgroundDark: '#0F1623',
+  cardLight: 'rgba(255, 255, 255, 1)',
+  cardDark: 'rgba(255, 255, 255, 0.08)',
+  borderDark: 'rgba(255, 255, 255, 0.12)',
+  textPrimary: '#1F2937',
+  textSecondary: '#6B7280',
+  textLight: '#F9FAFB',
+  textLightSecondary: '#9CA3AF',
+};

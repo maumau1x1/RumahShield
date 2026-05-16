@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "RumahShield",
+    "slug": "rumahshield",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "scheme": "rumahshield",
+    "splash": {
+      "backgroundColor": "#0F1623"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rumahshield.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F1623"
+      },
+      "package": "com.rumahshield.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
